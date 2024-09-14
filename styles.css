@@ -1,0 +1,156 @@
+h1 {
+    display: inline-block;
+    margin-right: 50px;
+    background-color: white;
+    color: #4d645f;
+
+}
+
+nav {
+    display: inline-block;
+    border-bottom: 1px solid black;
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-right: 60px;
+    background-color: white;
+
+}
+
+nav ul li a {
+    font-size: large;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    color: #4d645f;
+
+}
+
+nav ul li a:hover {
+    background-color: black;
+    color: azure;
+    font-style: italic;
+}
+
+form {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+table {
+
+    border: 1px solid black;
+    background-color:white;
+    margin: 0 auto;
+}
+
+
+th{
+    border: 1px solid black;
+
+}
+
+tr{
+    border: 1px solid black;
+
+}
+
+td {
+    border: 1px solid black;
+
+}
+
+#create-event {
+    padding-top: 20px;
+    text-align: center;
+    background-color: #faf7f2;
+    color: #4d645f;
+    margin: 0px;
+
+}
+
+#Ename {
+    text-align: center;
+    display: inline-block;
+    margin-right: 100px;
+}
+
+
+#Edescription {
+    text-align: center;
+    display: block;
+}
+
+
+#startDate {
+    text-align: center;
+    padding-top: 5px;
+    display: inline-block;
+}
+
+
+#endDate {
+    padding-top: 5px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+#tincrement{
+    display: inline-block;
+}
+
+#select-availbilty {
+    padding-top: 75px;
+    text-align: center;
+    background-color: #faf7f2;
+    color: #4d645f;
+    margin: 0px;
+
+}
+
+#view-results {
+
+    text-align: center;
+    background-color: #faf7f2;
+    color: #4d645f;
+    margin: 0px;
+    padding-left: 200px;
+    padding-right: 200px;
+
+}
+
+
+
+#link {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #faf7f2;
+    margin: 0px;
+
+}
+
+#sign-up {
+    text-align: center;
+    background-color: #faf7f2;
+    margin: 0px;
+
+}
+
+
+form {
+    background-color: #faf7f2;
+}
+
+footer {
+    background-color: #3f5651;
+    color: white;
+    margin: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
